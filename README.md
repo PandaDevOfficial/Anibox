@@ -114,8 +114,3 @@ Need help integrating Anibox into your project, want to suggest new categories, 
 * Join our **[Discord Support Server](https://discord.gg/QgZ6kvANQc)**.
 * Open an issue in our **[GitHub Issues](https://github.com/PandaDevOfficial/Anibox/issues)** tracker for bug reports, broken GIF replacements, or library feedback.
 
----
-
-## 📄 License
-
-MIT © [PandaDevOfficial](https://github.com/PandaDevOfficial).
